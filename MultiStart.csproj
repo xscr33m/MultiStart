@@ -7,6 +7,8 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>7208675_application_shortcut_ios_icon.ico</ApplicationIcon>
+    <StartupObject>MultiStart.Program</StartupObject>
+    <IsPublishable>False</IsPublishable>
   </PropertyGroup>
 
   <ItemGroup>
